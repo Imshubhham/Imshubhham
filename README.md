@@ -1,4 +1,4 @@
-![logo](https://futureskillsprime.in/sites/default/files/2022-01/Desktop%20Masthead_1920x476_Data%20Science%20Methodology%20%28DS0103EN%29.jpg)
+![logo](https://futureskillsprime.in/sites/default/files/2022-01/Desktop%20Masthead_1920x476_Data%20Science%20Methodology%20%28DS0103EN%29.jpg )
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif">
